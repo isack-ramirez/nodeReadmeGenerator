@@ -2,9 +2,9 @@
   # README
 
 
-  ## asdasd
+  ## Node Readme generator
 
-  Description: adasdas
+  Description: a simple command line node readme generator that outputs a markdown document
 
   ## Table of contents:
 
@@ -22,43 +22,40 @@
 
 
   ## Installation
-
-<a name= "instl">
-  adasdas
+  <a name= "instl">
+  install node, navigate to the directory of this project with terminal, run node on index.js
   </a>
   
- 
+  
   ## usage
- <a name= "use">
-  asdasd
+  <a name= "use">
+  this is an example of its own use
   </a>
 
-  
+ 
   ## License
-
-<a name= "lisc">
-  Apache license 2.0
+  <a name= "lisc">
+  Academic Free License v3.0
   </a>
 
- 
-  ## Contributing
- <a name= "contrib">
-  asdasd
-   </a> 
-
- 
-  ## Tests
-
- <a name= "test">
-  asdasd
-</a>
   
+  ## Contributing
+  <a name= "contrib">
+  Isack Ramirez
+  </a>
+
+  
+  ## Tests
+<a name= "test">
+  
+</a>
+
  
   ## Questions
+  <a name= "question">
+  
+  </a>
 
- <a name= "question">
-  adasda
-</a>
 
 
 

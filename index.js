@@ -92,39 +92,41 @@ const generateReadmeMD = (answers) =>
 
   [Questions](#question)
 
-<a name= "instl">
+
   ## Installation
-</a>
+  <a name= "instl">
   ${answers.instillation}
+  </a>
   
   
-  <a name= "use">
   ## usage
-  </a>
+  <a name= "use">
   ${answers.usage}
-  
-
-  <a name= "lisc">
-  ## License
-</a>
-  ${answers.lisence}
-
-  <a name= "contrib">
-  ## Contributing
   </a>
+
+ 
+  ## License
+  <a name= "lisc">
+  ${answers.lisence}
+  </a>
+
+  
+  ## Contributing
+  <a name= "contrib">
   ${answers.contributors}
+  </a>
 
-  <a name= "test">
+  
   ## Tests
-</a>
-
+<a name= "test">
   ${answers.tests}
-
-
-  <a name= "question">
-  ## Questions
 </a>
+
+ 
+  ## Questions
+  <a name= "question">
   ${answers.questions}
+  </a>
 
 
 
