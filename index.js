@@ -96,25 +96,31 @@ const generateReadmeMD = (answers) =>
   ## Installation
 </a>
   ${answers.instillation}
-
-  ## usage
+  
+  
   <a name= "use">
+  ## usage
+
   ${answers.usage}
   </a>
 
   <a name= "lisc">
   ## License
 </a>
-
   ${answers.lisence}
+
   <a name= "contrib">
   ## Contributing
   </a>
   ${answers.contributors}
+
   <a name= "test">
   ## Tests
 </a>
+
   ${answers.tests}
+
+  
   <a name= "question">
   ## Questions
 </a>

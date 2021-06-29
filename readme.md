@@ -2,9 +2,9 @@
   # README
 
 
-  ## Node readme generator
+  ## asdasd
 
-  Description: a node program that prompts the user and generates a readme based on input
+  Description: adasdas
 
   ## Table of contents:
 
@@ -23,30 +23,36 @@
 <a name= "instl">
   ## Installation
 </a>
-  download node, navigate to the directory for this program, run with node command
-
-  ## usage
+  adasdas
+  
+  
   <a name= "use">
-  this is a self explaining example
+  ## usage
+
+  asdasd
   </a>
 
   <a name= "lisc">
   ## License
 </a>
+  Apache license 2.0
 
-  Academic Free License v3.0
   <a name= "contrib">
   ## Contributing
   </a>
-  Isack Ramirez
+  asdasd
+
   <a name= "test">
   ## Tests
 </a>
+
+  asdasd
+
   
   <a name= "question">
   ## Questions
 </a>
-  
+  adasda
 
 
 
