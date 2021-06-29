@@ -2,48 +2,51 @@
   # README
 
 
-  ## Bill's pc
+  ## Node readme generator
 
-  Description: A pokemon generater where you can customize and save user made pokemon with movesets and sprites.
+  Description: a node program that prompts the user and generates a readme based on input
 
   ## Table of contents:
 
-  Installation
+  [Installation](#instl)
 
-  usage
+  [usage](#use)
 
-  License
+  [License](#lisc)
 
-  Contributing
+  [Contributing](#contrib)
   
-  Tests
+  [Tests](#test)
 
-  Questions
+  [Questions](#question)
 
-
+<a name= "instl">
   ## Installation
-
-  N/A it's a browser based application
+</a>
+  download node, navigate to the directory for this program, run with node command
 
   ## usage
+  <a name= "use">
+  this is a self explaining example
+  </a>
 
-  to design a pokemon to be collected in game
-
+  <a name= "lisc">
   ## License
+</a>
 
-  Apache license 2.0
-
+  Academic Free License v3.0
+  <a name= "contrib">
   ## Contributing
-  
-  Gerardo, Marco, Isack
-
+  </a>
+  Isack Ramirez
+  <a name= "test">
   ## Tests
-
-  not sure of one
-
+</a>
+  
+  <a name= "question">
   ## Questions
-
-  no
+</a>
+  
 
 
 

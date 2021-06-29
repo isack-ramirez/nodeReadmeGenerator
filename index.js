@@ -80,41 +80,44 @@ const generateReadmeMD = (answers) =>
 
   ## Table of contents:
 
-  Installation
+  [Installation](#instl)
 
-  usage
+  [usage](#use)
 
-  License
+  [License](#lisc)
 
-  Contributing
+  [Contributing](#contrib)
   
-  Tests
+  [Tests](#test)
 
-  Questions
+  [Questions](#question)
 
-
+<a name= "instl">
   ## Installation
-
+</a>
   ${answers.instillation}
 
   ## usage
-
+  <a name= "use">
   ${answers.usage}
+  </a>
 
+  <a name= "lisc">
   ## License
+</a>
 
   ${answers.lisence}
-
+  <a name= "contrib">
   ## Contributing
-  
+  </a>
   ${answers.contributors}
-
+  <a name= "test">
   ## Tests
-
+</a>
   ${answers.tests}
-
+  <a name= "question">
   ## Questions
-
+</a>
   ${answers.questions}
 
 
