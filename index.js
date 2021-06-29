@@ -100,9 +100,9 @@ const generateReadmeMD = (answers) =>
   
   <a name= "use">
   ## usage
-
-  ${answers.usage}
   </a>
+  ${answers.usage}
+  
 
   <a name= "lisc">
   ## License
@@ -120,7 +120,7 @@ const generateReadmeMD = (answers) =>
 
   ${answers.tests}
 
-  
+
   <a name= "question">
   ## Questions
 </a>
