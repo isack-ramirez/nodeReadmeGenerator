@@ -2,9 +2,9 @@
   # README
 
 
-  ## Node Readme generator
+  ## Read me generator
 
-  Description: a simple command line node readme generator that outputs a markdown document
+  Description: This is a node js readme generator
 
   ## Table of contents:
 
@@ -23,19 +23,19 @@
 
   ## Installation
   <a name= "instl">
-  install node, navigate to the directory of this project with terminal, run node on index.js
+  install node js, navigate to this directory with git bash, then run node js on index
   </a>
   
   
   ## usage
   <a name= "use">
-  this is an example of its own use
+  this itself is an example, generating a readme for itself
   </a>
 
  
   ## License
   <a name= "lisc">
-  Academic Free License v3.0
+  Apache license 2.0
   </a>
 
   
@@ -47,13 +47,13 @@
   
   ## Tests
 <a name= "test">
-  
+  ?
 </a>
 
  
   ## Questions
   <a name= "question">
-  
+  ?
   </a>
 
 
